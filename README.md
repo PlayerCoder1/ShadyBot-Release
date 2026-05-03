@@ -2,7 +2,7 @@
 
 # 🚀 Serveur Discord officiel
 
-## Support, achat Premium, suggestions et mises à jour 
+## Support, achat Premium, suggestions et mises à jour
 
 # 👉 https://discord.gg/aDh7Pb83Bx
 
