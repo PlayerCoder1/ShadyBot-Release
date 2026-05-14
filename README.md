@@ -2,7 +2,7 @@
 
 # 🚀 Serveur Discord officiel 
 
-# 👉 https://discord.gg/aDh7Pb83Bx 
+# 👉 https://discord.gg/aDh7Pb83Bx
 
 ---
 
