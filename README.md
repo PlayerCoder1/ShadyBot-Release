@@ -1,6 +1,6 @@
 # ShadyBot
 
-# 🚀 Serveur Discord officiel 
+# 🚀 Serveur Discord officiel
 
 # 👉 https://discord.gg/aDh7Pb83Bx
 
