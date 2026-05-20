@@ -4,7 +4,7 @@
 
 Une version **Premium** est disponible pour débloquer les fonctionnalités d’automatisation avancées et soutenir le développement.
 
-## Discord officiel
+## Discord officiel 
 
 👉 https://discord.gg/aDh7Pb83Bx
 
