@@ -10,6 +10,7 @@ Une version **Premium** est disponible pour débloquer les fonctionnalités d’
 
 ## Screenshots
 ![Bot](image/bot.png)
+![Discord](image/discord.png)
 ![Session](image/Session.png)
 ![Chat](image/chat.png)
 ![Logs](image/logs.png)
