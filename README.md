@@ -9,7 +9,7 @@ Une version **Premium** est disponible pour débloquer les fonctionnalités d’
 👉 https://discord.gg/aDh7Pb83Bx 
 
 ## Screenshots
-
+![Bot](image/bot.png)
 ![Session](image/Session.png)
 ![Chat](image/chat.png)
 ![Logs](image/logs.png)
