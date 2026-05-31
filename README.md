@@ -6,7 +6,7 @@ Une version **Premium** est disponible pour débloquer les fonctionnalités d’
 
 ## Site Officiel
 
-👉 https://shadybot.xyz/
+👉 https://shadybot.xyz/ 
 
 ## Discord officiel  
 
