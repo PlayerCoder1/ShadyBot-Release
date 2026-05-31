@@ -4,7 +4,7 @@
 
 Une version **Premium** est disponible pour débloquer les fonctionnalités d’automatisation avancées et soutenir le développement.  
 
-## Site Officiel
+## Site Officiel 
 
 👉 https://shadybot.xyz/ 
 
