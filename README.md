@@ -10,7 +10,7 @@ Une version **Premium** est disponible pour débloquer les fonctionnalités d’
 
 ## Discord officiel  
 
-👉 https://discord.gg/aDh7Pb83Bx 
+👉 https://discord.gg/aDh7Pb83Bx  
 
 ## Screenshots
 ![Bot](image/bot.png)
