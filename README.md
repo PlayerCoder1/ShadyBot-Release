@@ -2,7 +2,7 @@
 
 **ShadyBot** est un outil gratuit permettant d’analyser les paquets du jeu et d’afficher les informations de manière claire dans une interface simple à utiliser.
 
-Une version **Premium** est disponible pour débloquer les fonctionnalités d’automatisation avancées et soutenir le développement.  
+Une version **Premium** est disponible pour débloquer les fonctionnalités d’automatisation avancées et soutenir le développement.   
 
 ## Site Officiel
 
